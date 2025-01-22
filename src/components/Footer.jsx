@@ -16,7 +16,7 @@ const Footer = () => {
           <h4 className="text-lg font-bold mb-4">
             Quick <span className="text-emerald-600">Links</span>
           </h4>
-          <ul className="flex items-center justify-between gap-4">
+          <ul className="flex items-center justify-between gap-2 sm:flex-nowrap">
             <li>
               <a
                 href="#home"
@@ -30,7 +30,7 @@ const Footer = () => {
                 href="#about"
                 className="text-slate-600 hover:text-emerald-600 transition duration-300 hover:underline"
               >
-                About Us
+                About
               </a>
             </li>
             <li>

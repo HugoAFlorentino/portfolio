@@ -60,7 +60,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://github.com/HugoAFlorentino',
+    url: 'https://backroad-web-app.netlify.app/',
     github: 'https://github.com/john-smilga',
     title: 'first project',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
@@ -68,7 +68,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://github.com/HugoAFlorentino',
+    url: 'https://backroad-web-app.netlify.app/',
     github: 'https://github.com/john-smilga',
     title: 'second project',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
@@ -76,7 +76,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://github.com/HugoAFlorentino',
+    url: 'https://backroad-web-app.netlify.app/',
     github: 'https://github.com/john-smilga',
     title: 'third project',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',

@@ -13,10 +13,13 @@ const About = () => {
         <article>
           <SectionTitle text="code and games" />
           <p className="text-slate-600 mt-8 leading-loose">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita
-            labore, quo beatae animi doloribus odio aut magnam a voluptatem
-            debitis numquam? Explicabo molestias quas minima sint adipisci unde,
-            possimus iusto?
+            With an unwavering passion for coding, I find joy in transforming
+            complex problems into elegant, functional solutions. The thrill of
+            building interactive applications mirrors my love for games—both
+            involve creativity, strategy, and a constant drive to level up.
+            Games have fueled my curiosity for technology, inspiring me to
+            create immersive experiences and explore the limitless possibilities
+            of code.
           </p>
         </article>
       </div>

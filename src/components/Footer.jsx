@@ -13,7 +13,9 @@ const Footer = () => {
         </div>
 
         <div>
-          <h4 className="text-lg font-bold mb-4">Quick Links</h4>
+          <h4 className="text-lg font-bold mb-4">
+            Quick <span className="text-emerald-600">Links</span>
+          </h4>
           <ul className="space-y-2">
             <li>
               <a

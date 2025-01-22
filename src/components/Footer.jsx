@@ -17,6 +17,14 @@ const Footer = () => {
           <ul className="space-y-2">
             <li>
               <a
+                href="#home"
+                className="text-slate-600 hover:text-emerald-600 transition duration-300 hover:underline"
+              >
+                Home
+              </a>
+            </li>
+            <li>
+              <a
                 href="#about"
                 className="text-slate-600 hover:text-emerald-600 transition duration-300 hover:underline"
               >

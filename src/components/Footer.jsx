@@ -16,7 +16,7 @@ const Footer = () => {
           <h4 className="text-lg font-bold mb-4">
             Quick <span className="text-emerald-600">Links</span>
           </h4>
-          <ul className="space-y-2">
+          <ul className="flex items-center justify-between gap-4">
             <li>
               <a
                 href="#home"
